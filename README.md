@@ -2,6 +2,10 @@
      <img align="center" src="https://github.com/AlexandreBarrosDev/Portfolio/blob/main/imagens/logoalx.svg">
 </h3>
 
+Desafio proposto pelo instrutor Felipe Aguiar do curso de lógica de programação da Dio.
+
+O desafio foi completo com a criação de uma função para calculo de Ranqueadas e uma estrutura switch case seguindo as devidas instruões de calculo e classificação de nível, porém um possivel problema foi encontrado no algoritimo pois se o resultado do calculo for igual a 10, o programa não atribuirá uma classificação ao herói, para contornar o problema foi implementado o operador de comparação "<=" no case inicial do programa.
+
 Instruções para entrega
  # 2️⃣ Calculadora de partidas Rankeadas
 **O Que deve ser utilizado**
