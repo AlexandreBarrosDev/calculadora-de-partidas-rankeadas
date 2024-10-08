@@ -1,5 +1,5 @@
 let rankedResults = rankedCalculator(56, 22);
-let rankedLevel = "Ferro"
+let rankedLevel;
 
 function rankedCalculator(rankedVictories, rankedDefeats) {
 
