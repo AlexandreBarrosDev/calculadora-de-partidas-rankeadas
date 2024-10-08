@@ -1,5 +1,3 @@
-# Calculadora de partidas rankeadas
-
 <h3>
      <img align="center" src="https://github.com/AlexandreBarrosDev/Portfolio/blob/main/imagens/logoalx.svg">
 </h3>
